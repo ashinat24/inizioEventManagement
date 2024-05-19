@@ -9,7 +9,7 @@ This Event Management Website is built using PHP and Database(MySQL). In this we
 ![Contact Page](/contact.png)
 ![Login Page](/login.png)
 ![Ongoing Events Page](/ongoing_events.png)
-![Events Registration Page](/events_register.png)
+![Events Registration Page](/event_register.png)
 
 
 ## Tech-Stack Used:
